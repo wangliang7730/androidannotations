@@ -1,5 +1,7 @@
 # Fast Android Development. Easy maintenance.
 
+注解框架
+
 [![Android Annotations Logo](https://github.com/excilys/androidannotations/wiki/img/aa-logo.png)](https://github.com/excilys/androidannotations/wiki/Home) 
 
 **AndroidAnnotations** is an Open Source framework that **speeds up** Android development.
